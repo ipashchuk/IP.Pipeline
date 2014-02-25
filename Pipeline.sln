@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline", "Pipeline\Pipeline.csproj", "{FB75C956-8C1F-4B26-9626-6C648F88CA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipeline.Tests", "Pipeline.Tests\Pipeline.Tests.csproj", "{118FFD89-58EB-49BE-8D04-F1246A318821}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Pipeline\\Pipeline.csproj
+		SccProjectName1 = Pipeline
+		SccLocalPath1 = Pipeline
+		SccProjectUniqueName2 = Pipeline.Tests\\Pipeline.Tests.csproj
+		SccProjectName2 = Pipeline.Tests
+		SccLocalPath2 = Pipeline.Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB75C956-8C1F-4B26-9626-6C648F88CA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB75C956-8C1F-4B26-9626-6C648F88CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB75C956-8C1F-4B26-9626-6C648F88CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB75C956-8C1F-4B26-9626-6C648F88CA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118FFD89-58EB-49BE-8D04-F1246A318821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118FFD89-58EB-49BE-8D04-F1246A318821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118FFD89-58EB-49BE-8D04-F1246A318821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118FFD89-58EB-49BE-8D04-F1246A318821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
